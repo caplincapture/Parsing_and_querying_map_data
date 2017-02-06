@@ -9,9 +9,7 @@ Geneva, Switzerland
 https://github.com/wwu247/Udacity-DAND-P3_Wrangle_OpenStreetMap
 https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
 
-Geneva, Switzerland is my father's hometown, and this project sets to explore open street map data of a neighborhood in the 
-area.  This project explores the formatting and conversion of open street map download files to csvs, and subsequently that of
-CSVs to SQL tables to be queried to see what database querying reveals.  A script was run in Python to create tables from the xmls, the code was tested against a smaller sample file and then run against the original file once debugged. 
+This projects explores parses and queries street map data of a neighborhood in Geneva, Switzerland.  Open Street Map data is formatted and converted to CSV, and subsequently to SQL tables.  A script was run in Python to create tables from the xmls, the code was tested against a smaller sample file and then run against the original file once debugged. 
 
 
 Introduction--
